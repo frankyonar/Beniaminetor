@@ -1,5 +1,5 @@
 <?php
-// stock_graph.php
+
 ?>
 <!DOCTYPE html>
 <html lang="it">
